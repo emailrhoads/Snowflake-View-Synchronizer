@@ -1,2 +1,3 @@
-# Snowflake-View-Synchronizer
-Some code used to keep track of reporting objects (views and materialized views) inside Snowflake. Also includes some functional tests to ensure coverage and Gitlab CICD pipeline.
+# it-pmo-snowflake-views
+
+This project contains the DDL for views that are created in support of the Tableau reports used by the App Dev ITPMO.
